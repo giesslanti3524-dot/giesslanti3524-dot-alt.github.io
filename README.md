@@ -38,7 +38,7 @@ I, **IAN STEWART**, hereby publicly declare that the above phone number and addr
   },
   "sameAs": [
     "https://x.com/stewart18292",
-    "https://giesslanti3524-dot-alt.github.io/"
+    "https://giesslanti3524-dot.github.io/giesslanti3524-dot-alt.github.io/"
   ]
 }
 </script>
