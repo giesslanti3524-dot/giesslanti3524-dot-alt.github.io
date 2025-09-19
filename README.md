@@ -1,4 +1,7 @@
-<img width="2000" height="1500" alt="34_1742988950" src="https://github.com/user-attachments/assets/4b5ed465-a5f9-4844-be20-b3c7ea46b862"
+
+<img width="2000" height="1500" alt="34_1742988950" src="https://github.com/user-attachments/assets/c1f020e1-6229-496e-8172-1ad901354e7d" />
+# IAN STEWART — Contact & Verification
+
 **Name:** IAN STEWART  
 **DOB:** June 5, 1992  
 **Phone:** **+1-872-377-0594**  
@@ -37,7 +40,7 @@ I, **IAN STEWART**, hereby publicly declare that the above phone number and addr
   },
   "sameAs": [
     "https://x.com/stewart18292",
-    "https://giesslanti3524-dot.github.io/giesslanti3524-dot-alt.github.io/"
+    "https://giesslanti3524-dot-alt.github.io/"
   ]
 }
 </script>
