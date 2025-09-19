@@ -1,5 +1,4 @@
-<img width="2000" height="1500" alt="34_1742988950" src="https://github.com/user-attachments/assets/4b5ed465-a5f9-4844-be20-b3c7ea46b862" /><img width="2000" height="1500" alt="34_1742988950" src="https://github.com/user-attachments/assets/2c2c6792-91e5-4ed2-a129-e0b333f260b1" /># IAN STEWART — Contact & Verification
-<img width="2000" height="1500" alt="34_1742988950" src="https://github.com/user-attachments/assets/22875b8f-3a86-4dab-973e-499f824951c5" />
+<img width="2000" height="1500" alt="34_1742988950" src="https://github.com/user-attachments/assets/4b5ed465-a5f9-4844-be20-b3c7ea46b862"
 **Name:** IAN STEWART  
 **DOB:** June 5, 1992  
 **Phone:** **+1-872-377-0594**  
